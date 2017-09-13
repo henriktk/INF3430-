@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Efirst
+Z0 w1505292655
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dM:\pc\Desktop\INF3430\Lab-1\Lab-1\Questa
+Z5 8M:/pc/Desktop/INF3430/Lab-1/Task-1/first.vhd
+Z6 FM:/pc/Desktop/INF3430/Lab-1/Task-1/first.vhd
+l0
+L10
+VYS52nHA7F83>XJ1JXnPVn1
+Z7 OL;C;10.1d;51
+31
+Z8 !s108 1505294053.862000
+Z9 !s90 -reportprogress|300|-work|work|-93|-explicit|-vopt|M:/pc/Desktop/INF3430/Lab-1/Task-1/first.vhd|
+Z10 !s107 M:/pc/Desktop/INF3430/Lab-1/Task-1/first.vhd|
+Z11 o-work work -93 -explicit
+Z12 tExplicit 1
+!s100 `e^KFNX6Kol`:>@SjBP9G1
+!i10b 1
+Amy_first_arch
+R1
+R2
+R3
+DEx4 work 5 first 0 22 YS52nHA7F83>XJ1JXnPVn1
+31
+l41
+L33
+V5AE=GNB5I7cJ3JRf?eCYT1
+R7
+R8
+R9
+R10
+R11
+R12
+!s100 MKnij8Qko<@SiUTXmVcBM2
+!i10b 1
+Etest_first
+Z13 w1505292081
+R2
+R3
+R4
+Z14 8M:/pc/Desktop/INF3430/Lab-1/Task-1/tb_first.vhd
+Z15 FM:/pc/Desktop/INF3430/Lab-1/Task-1/tb_first.vhd
+l0
+L4
+VUKSJoQ`<UdDPc[FZO?Zd`3
+R7
+31
+Z16 !s108 1505294054.470000
+Z17 !s90 -reportprogress|300|-work|work|-93|-explicit|-vopt|M:/pc/Desktop/INF3430/Lab-1/Task-1/tb_first.vhd|
+Z18 !s107 M:/pc/Desktop/INF3430/Lab-1/Task-1/tb_first.vhd|
+R11
+R12
+!s100 L888SZehB30a3VRe8zeX`1
+!i10b 1
+Atestbench
+R2
+R3
+DEx4 work 10 test_first 0 22 UKSJoQ`<UdDPc[FZO?Zd`3
+31
+l39
+L8
+VEkNZJOOSjg[_o]GfXf_bz2
+R7
+R16
+R17
+R18
+R11
+R12
+!s100 AIX5@4Hl4JgK2NQL>HVSe3
+!i10b 1
