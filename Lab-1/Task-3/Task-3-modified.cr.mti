@@ -1,0 +1,27 @@
+M:/pc/Desktop/INF3430/lab1-src/src/tb_variables_vs_signals.vhd {1 {vcom -work work -2002 -explicit -novopt M:/pc/Desktop/INF3430/lab1-src/src/tb_variables_vs_signals.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_variables_vs_signals
+-- Compiling architecture beh1 of tb_variables_vs_signals
+-- Loading entity variables_vs_signals
+
+} {} {}} M:/pc/Desktop/INF3430/Lab-1/Task-3/delay_modified.vhd {1 {vcom -work work -2002 -explicit -novopt M:/pc/Desktop/INF3430/Lab-1/Task-3/delay_modified.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity delay_mod
+-- Compiling architecture rtl1_mod of delay_mod
+
+} {} {}} M:/pc/Desktop/INF3430/Lab-1/Task-3/tb_delay_modified.vhd {1 {vcom -work work -2002 -explicit -novopt M:/pc/Desktop/INF3430/Lab-1/Task-3/tb_delay_modified.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_delay_mod
+-- Compiling architecture beh1_mod of tb_delay_mod
+-- Loading entity delay_mod
+
+} {} {}}

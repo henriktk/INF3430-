@@ -1,0 +1,218 @@
+m255
+K3
+13
+cModel Technology
+dM:\pc\Desktop\INF3430\Lab-1\Task-2
+Edelay
+Z0 w1505289066
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dM:\pc\Desktop\INF3430\Lab-1\Task-3
+Z4 8M:/pc/Desktop/INF3430/Lab-1/Task-3/delay_modified.vhd
+Z5 FM:/pc/Desktop/INF3430/Lab-1/Task-3/delay_modified.vhd
+l0
+L4
+V2^JLWeOPeBA8N4T9oKhAl0
+Z6 OL;C;10.1d;51
+32
+Z7 !s108 1505299254.233000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/pc/Desktop/INF3430/Lab-1/Task-3/delay_modified.vhd|
+Z9 !s107 M:/pc/Desktop/INF3430/Lab-1/Task-3/delay_modified.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 JTihDZmIOE>RiAbaD?A7o1
+!i10b 1
+Artl1
+R1
+R2
+Z12 DEx4 work 5 delay 0 22 2^JLWeOPeBA8N4T9oKhAl0
+l16
+L14
+VEgXg7SI@>?NH?biU5iLUM2
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 Bm[2jlYO_`_:@3PMWc^8R2
+!i10b 1
+Edelay_mod
+Z13 w1505299374
+R1
+R2
+R3
+R4
+R5
+l0
+L4
+VPmeTZ8HXiHTT8<iTfRlIj2
+R6
+32
+Z14 !s108 1505299984.144000
+R8
+R9
+R10
+R11
+!s100 eIKW_de8V=T:]04j[=G311
+!i10b 1
+Artl1_mod
+R1
+R2
+Z15 DEx4 work 9 delay_mod 0 22 PmeTZ8HXiHTT8<iTfRlIj2
+l16
+L14
+VG:`VLHio5jllKnENhXia`1
+R6
+32
+R14
+R8
+R9
+R10
+R11
+!s100 IVfT5`mbPTGDe4S8;7W>j0
+!i10b 1
+Etb_delay
+Z16 w1505299063
+R1
+R2
+R3
+Z17 8M:/pc/Desktop/INF3430/Lab-1/Task-3/tb_delay_modified.vhd
+Z18 FM:/pc/Desktop/INF3430/Lab-1/Task-3/tb_delay_modified.vhd
+l0
+L5
+VbQmol4e_P9FnfTS:hAmlk1
+R6
+32
+Z19 !s108 1505299255.949000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/pc/Desktop/INF3430/Lab-1/Task-3/tb_delay_modified.vhd|
+Z21 !s107 M:/pc/Desktop/INF3430/Lab-1/Task-3/tb_delay_modified.vhd|
+R10
+R11
+!s100 e?;jLA9`oNaC=]KOiE`253
+!i10b 1
+Abeh1
+R12
+R1
+R2
+DEx4 work 8 tb_delay 0 22 bQmol4e_P9FnfTS:hAmlk1
+l24
+L9
+V3l5N9k2KZLkOk7XBLJ21Z0
+R6
+32
+R19
+R20
+R21
+R10
+R11
+!s100 F1nKCc>AaWT4LPfU:[eI23
+!i10b 1
+Etb_delay_mod
+Z22 w1505299980
+R1
+R2
+R3
+R17
+R18
+l0
+L5
+V:=G=leJTGk3=c>Izl2XnL3
+R6
+32
+Z23 !s108 1505299984.690000
+R20
+R21
+R10
+R11
+!s100 HbXCAhY]^BA;gW5M3^RZg0
+!i10b 1
+Abeh1_mod
+R15
+R1
+R2
+DEx4 work 12 tb_delay_mod 0 22 :=G=leJTGk3=c>Izl2XnL3
+l24
+L9
+VV=7LzA]1jKeGmQ3PW2]Gf0
+R6
+32
+R23
+R20
+R21
+R10
+R11
+!s100 [H0DH;ih`32KcfHXI;?C_1
+!i10b 1
+Etb_variables_vs_signals
+Z24 w1505301571
+R1
+R2
+R3
+Z25 8M:/pc/Desktop/INF3430/lab1-src/src/tb_variables_vs_signals.vhd
+Z26 FM:/pc/Desktop/INF3430/lab1-src/src/tb_variables_vs_signals.vhd
+l0
+L5
+V7S5e1B2Jhc<@fBo]zgU8G3
+R6
+32
+Z27 !s108 1505301640.469000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/pc/Desktop/INF3430/lab1-src/src/tb_variables_vs_signals.vhd|
+Z29 !s107 M:/pc/Desktop/INF3430/lab1-src/src/tb_variables_vs_signals.vhd|
+R10
+R11
+!s100 Ba[Q><_f4hfFioNGd<APC3
+!i10b 1
+Abeh1
+Z30 DEx4 work 20 variables_vs_signals 0 22 nPS10eGjNzW?X;kHIGNNl3
+R1
+R2
+DEx4 work 23 tb_variables_vs_signals 0 22 7S5e1B2Jhc<@fBo]zgU8G3
+l20
+L9
+V=C_ng[zmQ60d?]Ok6Ma<c1
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!s100 E:8TbVgXEXFiOXYNO>Gbz3
+!i10b 1
+Evariables_vs_signals
+Z31 w1505301746
+R1
+R2
+R3
+Z32 8M:/pc/Desktop/INF3430/lab1-src/src/variables_vs_signals.vhd
+Z33 FM:/pc/Desktop/INF3430/lab1-src/src/variables_vs_signals.vhd
+l0
+L4
+VnPS10eGjNzW?X;kHIGNNl3
+!s100 j=Y4JUdXY57iELi>DUF1U0
+R6
+32
+!i10b 1
+Z34 !s108 1505301752.602000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/pc/Desktop/INF3430/lab1-src/src/variables_vs_signals.vhd|
+Z36 !s107 M:/pc/Desktop/INF3430/lab1-src/src/variables_vs_signals.vhd|
+R10
+R11
+Artl1
+R1
+R2
+R30
+l13
+L11
+VGbTSDm^Ez7k9hN?eBDXC52
+!s100 1hZ78CQzR`PzZfS;LL><J0
+R6
+32
+!i10b 1
+R34
+R35
+R36
+R10
+R11

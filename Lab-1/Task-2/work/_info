@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+dC:\questasim64_10.1d\examples
+Edecoder
+Z0 w1505296622
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dM:\pc\Desktop\INF3430\Lab-1\Task-2
+Z4 8M:/pc/Desktop/INF3430/Lab-1/Task-2/decoder.vhd
+Z5 FM:/pc/Desktop/INF3430/Lab-1/Task-2/decoder.vhd
+l0
+L4
+V^:Th@aCao5A3616hSiVJG2
+Z6 OL;C;10.1d;51
+32
+Z7 !s108 1505296864.894000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/pc/Desktop/INF3430/Lab-1/Task-2/decoder.vhd|
+Z9 !s107 M:/pc/Desktop/INF3430/Lab-1/Task-2/decoder.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 JJ=A?>hSVLC7?Eli0PQmJ3
+!i10b 1
+Adecoder_arch
+R1
+R2
+DEx4 work 7 decoder 0 22 ^:Th@aCao5A3616hSiVJG2
+l14
+L13
+VH?o0::JLFiN?7a3H]E;GX3
+!s100 UWQ^zDON4e>Ecg@RIQD^13
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!i10b 1
+Etest_decoder
+Z12 w1505296690
+R1
+R2
+R3
+Z13 8M:/pc/Desktop/INF3430/Lab-1/Task-2/tb_decoder.vhd
+Z14 FM:/pc/Desktop/INF3430/Lab-1/Task-2/tb_decoder.vhd
+l0
+L4
+V3JWm4lnCbY5@I9>]KhK@D2
+!s100 BWObX91z>fOIgFm>mfb890
+R6
+32
+!i10b 1
+Z15 !s108 1505296865.484000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-novopt|M:/pc/Desktop/INF3430/Lab-1/Task-2/tb_decoder.vhd|
+Z17 !s107 M:/pc/Desktop/INF3430/Lab-1/Task-2/tb_decoder.vhd|
+R10
+R11
+Atestbecnh
+R1
+R2
+Z18 DEx4 work 12 test_decoder 0 22 3JWm4lnCbY5@I9>]KhK@D2
+l22
+L7
+Z19 Va`jf9lFdA2[JYKVZdcVzN3
+Z20 !s100 BGiTAfHO[M;6NMTlgOBEV2
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11

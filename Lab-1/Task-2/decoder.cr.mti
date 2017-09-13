@@ -1,0 +1,17 @@
+M:/pc/Desktop/INF3430/Lab-1/Task-2/decoder.vhd {1 {vcom -work work -2002 -explicit -novopt M:/pc/Desktop/INF3430/Lab-1/Task-2/decoder.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder
+-- Compiling architecture decoder_arch of decoder
+
+} {} {}} M:/pc/Desktop/INF3430/Lab-1/Task-2/tb_decoder.vhd {1 {vcom -work work -2002 -explicit -novopt M:/pc/Desktop/INF3430/Lab-1/Task-2/tb_decoder.vhd
+QuestaSim-64 vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TEST_DECODER
+-- Compiling architecture TESTBECNH of TEST_DECODER
+
+} {} {}}
